@@ -1,3 +1,5 @@
-# Welcome to my blog
+# Welcome to Etienne's resume page
 
-I'm glad you are here. I plan to talk about ...
+Thanks for visiting my resume page. Just click on the link to access the PDF
+## Etienne's resume
+
