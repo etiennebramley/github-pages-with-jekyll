@@ -1,7 +1,8 @@
+theme: minima
 title: Talk about your resume
 author: etiennebramley
 email: etienne.bramley@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
+description: > # Resume discussion
   Let's talk about what to include in our resumes and what not. 
   Improving your resume will improve your chances for getting a job.
   
